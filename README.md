@@ -13,5 +13,5 @@
 
 [What 'Hacker News' Posts Get the Most Engagement?:](https://nbviewer.org/github/Mats44/data_science_projects/blob/main/hacker_news_posts/hacker_news_posts.ipynb) This project looks at what type of posts on the 'Hacker News' website gets the most viewes and comments. Engagement according to time of posting is also examined.
 
-[Analysis of the Euro-USD Exchange Rate During the 2007-2008 Financial Crisis:](https://nbviewer.org/github/Mats44/data_science_projects/blob/main/exchange_rates/exchange_rates.ipynb)
+[Analysis of the Euro-USD Exchange Rate During the 2007-2008 Financial Crisis:](https://nbviewer.org/github/Mats44/data_science_projects/blob/main/exchange_rates/exchange_rates.ipynb) Investigating the impact of the 2007-2008 financial crisis on the Euro-USD  exchange rate.
 
