@@ -1,5 +1,5 @@
 # Data Science Projects
-[CIA World Factbook: ](https://github.com/Mats44/data_science_projects/blob/main/cia_factbook_analysis/cia_factbook_analysis.ipynb) Analysis of a selection of the CIA World Factbook using MySQL. 
+[CIA World Factbook: ](https://github.com/Mats44/data_science_projects/blob/main/cia_factbook_analysis/cia_factbook_analysis.ipynb) Analysis of a selection of the CIA World Factbook using MySQL.   
 _tech used: MySQL_
 
 [Employee Exit Surveys:](https://nbviewer.org/github/Mats44/data_science_projects/blob/main/cleaning_exit_surveys/cleaning_exit_surveys.ipynb) This projects analyzes employee exit surveys at two institutes in Australia. It investigates the reasons for quiting in various segments of employees.  
