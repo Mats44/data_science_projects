@@ -5,6 +5,9 @@ _tech used: MySQL_
 [Employee Exit Surveys:](https://nbviewer.org/github/Mats44/data_science_projects/blob/main/cleaning_exit_surveys/cleaning_exit_surveys.ipynb) This projects analyzes employee exit surveys at two institutes in Australia. It investigates the reasons for quiting in various segments of employees.  
 _tech used: pandas, matplotlib_
 
+[Analysis of the Euro-USD Exchange Rate During the 2007-2008 Financial Crisis:](https://nbviewer.org/github/Mats44/data_science_projects/blob/main/exchange_rates/exchange_rates.ipynb) Investigating the impact of the 2007-2008 financial crisis on the Euro-USD  exchange rate.  
+_tech used: pandas, matplotlib_
+
 [Star Wars Survey:](https://nbviewer.org/github/Mats44/data_science_projects/blob/main/star_wars_survey/star_wars_survey.ipynb) This project is based on a survey done by FiveThirtyEight regarding the Star Wars film franchise. It investigates number of viewers and rankings of the films among different groups of respondents.  
 _tech used: pandas, matplotlib_
 
@@ -21,7 +24,4 @@ _tech used: pandas, matplotlib_
 _tech used: pandas, matplotlib_
 
 [What 'Hacker News' Posts Get the Most Engagement?:](https://nbviewer.org/github/Mats44/data_science_projects/blob/main/hacker_news_posts/hacker_news_posts.ipynb) This project looks at what type of posts on the 'Hacker News' website gets the most viewes and comments. Engagement according to time of posting is also examined.  
-_tech used: pandas, matplotlib_
-
-[Analysis of the Euro-USD Exchange Rate During the 2007-2008 Financial Crisis:](https://nbviewer.org/github/Mats44/data_science_projects/blob/main/exchange_rates/exchange_rates.ipynb) Investigating the impact of the 2007-2008 financial crisis on the Euro-USD  exchange rate.  
 _tech used: pandas, matplotlib_
