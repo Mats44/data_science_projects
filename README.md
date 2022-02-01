@@ -1,8 +1,8 @@
 # Data Science Projects
-[Digital Store Business Analysis: ](https://nbviewer.org/github.com/Mats44/data_science_projects/blob/main/business_analysis_with_sql/business_analysis_with_sql.ipynb) An analysis of Chinook demo database using MySQL. The analysis attempts to answer several business questions for a theoretical digital store (iTunes clone).  
+[Digital Store Business Analysis: ](https://nbviewer.org/github/Mats44/data_science_projects/blob/main/business_analysis_with_sql/business_analysis_with_sql.ipynb) An analysis of Chinook demo database using MySQL. The analysis attempts to answer several business questions for a theoretical digital store (iTunes clone).  
 _tech used: MySQL_
 
-[CIA World Factbook: ](https://github.com/Mats44/data_science_projects/blob/main/cia_factbook_analysis/cia_factbook_analysis.ipynb) Analysis of a selection of the CIA World Factbook using MySQL.   
+[CIA World Factbook: ](https://nbviewer.org/github/Mats44/data_science_projects/blob/main/cia_factbook_analysis/cia_factbook_analysis.ipynb) Analysis of a selection of the CIA World Factbook using MySQL.   
 _tech used: MySQL_
 
 [Employee Exit Surveys:](https://nbviewer.org/github/Mats44/data_science_projects/blob/main/cleaning_exit_surveys/cleaning_exit_surveys.ipynb) This projects analyzes employee exit surveys at two institutes in Australia. It investigates the reasons for quiting in various segments of employees.  
