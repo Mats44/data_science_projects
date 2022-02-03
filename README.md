@@ -1,8 +1,14 @@
 # Data Science Projects
-[CIA World Factbook: ](https://github.com/Mats44/data_science_projects/blob/main/cia_factbook_analysis/cia_factbook_analysis.ipynb) Analysis of a selection of the CIA World Factbook using MySQL.   
+[Digital Store Business Analysis: ](https://nbviewer.org/github/Mats44/data_science_projects/blob/main/business_analysis_with_sql/business_analysis_with_sql.ipynb) An analysis of Chinook demo database using MySQL. The analysis attempts to answer several business questions for a theoretical digital store (iTunes clone).  
+_tech used: MySQL_
+
+[CIA World Factbook: ](https://nbviewer.org/github/Mats44/data_science_projects/blob/main/cia_factbook_analysis/cia_factbook_analysis.ipynb) Analysis of a selection of the CIA World Factbook using MySQL.   
 _tech used: MySQL_
 
 [Employee Exit Surveys:](https://nbviewer.org/github/Mats44/data_science_projects/blob/main/cleaning_exit_surveys/cleaning_exit_surveys.ipynb) This projects analyzes employee exit surveys at two institutes in Australia. It investigates the reasons for quiting in various segments of employees.  
+_tech used: pandas, matplotlib_
+
+[Indicators of Heavy Traffic On the I-94:](https://nbviewer.org/github/Mats44/data_science_projects/blob/main/finding_heavy_traffic_indicators_on_i94/finding_heavy_traffic_indicators_on_i94.ipynb) A look at what factors affect westbound traffic on the I-94 interstate highway. Temperature, weather, month and time-of-day is investigated.  
 _tech used: pandas, matplotlib_
 
 [Analysis of the Euro-USD Exchange Rate During the 2007-2008 Financial Crisis:](https://nbviewer.org/github/Mats44/data_science_projects/blob/main/exchange_rates/exchange_rates.ipynb) Investigating the impact of the 2007-2008 financial crisis on the Euro-USD  exchange rate.  
@@ -18,9 +24,6 @@ _tech used: pandas, matplotlib_
 _tech used: pandas, matplotlib_
 
 [Mobile App Recommendations:](https://nbviewer.org/github/Mats44/data_science_projects/blob/main/app_profile_recommendations/app_profil_recommendations.ipynb) Analysis of apps on the Google Play & iOS stores to provide recommendations to a fictional mobile-app developer. The company is looking for app types that will generate the most in-app advertising revenue.  
-_tech used: pandas, matplotlib_
-
-[Indicators of Heavy Traffic On the I-94:](https://nbviewer.org/github/Mats44/data_science_projects/blob/main/finding_heavy_traffic_indicators_on_i94/finding_heavy_traffic_indicators_on_i94.ipynb) A look at what factors affect westbound traffic on the I-94 interstate highway. Temperature, weather, month and time-of-day is investigated.  
 _tech used: pandas, matplotlib_
 
 [What 'Hacker News' Posts Get the Most Engagement?:](https://nbviewer.org/github/Mats44/data_science_projects/blob/main/hacker_news_posts/hacker_news_posts.ipynb) This project looks at what type of posts on the 'Hacker News' website gets the most viewes and comments. Engagement according to time of posting is also examined.  
