@@ -28,3 +28,5 @@ _tech used: pandas, matplotlib_
 
 [What 'Hacker News' Posts Get the Most Engagement?:](https://nbviewer.org/github/Mats44/data_science_projects/blob/main/hacker_news_posts/hacker_news_posts.ipynb) This project looks at what type of posts on the 'Hacker News' website gets the most viewes and comments. Engagement according to time of posting is also examined.  
 _tech used: pandas, matplotlib_
+
+[Fandango Movie Ratings: ](https://nbviewer.org/github/Mats44/data_science_projects/blob/main/Fandango%20Movie%20Ratings/fandango_movie_ratings.ipynb) In 2015 an investigative data analysis published by FiveThirtyEight revealed biased rounding of movie ratings on Fandango. Following the expose Fandango promised to fix their rating system. This project compare 2015 and 2016 movie ratings to determine if the rating system has actually been altered.
