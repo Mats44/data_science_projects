@@ -30,3 +30,5 @@ _tech used: pandas, matplotlib_
 _tech used: pandas, matplotlib_
 
 [Fandango Movie Ratings: ](https://nbviewer.org/github/Mats44/data_science_projects/blob/main/Fandango%20Movie%20Ratings/fandango_movie_ratings.ipynb) In 2015 an investigative data analysis published by FiveThirtyEight revealed biased rounding of movie ratings on Fandango. Following the expose Fandango promised to fix their rating system. This project compare 2015 and 2016 movie ratings to determine if the rating system has actually been altered.
+
+[pyTorch Image Classifier: ](https://nbviewer.org/github/Mats44/data_science_projects/blob/main/pyTorch_nn/torch_nn.py) A simple 2D convolutional neural network for image classification. Built using pyTorch, following [this](https://www.youtube.com/watch?v=mozBidd58VQ) tutorial.
