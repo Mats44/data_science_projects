@@ -52,14 +52,14 @@ if __name__ == "__main__":
         print(f"Epoch {epoch} loss is {loss.item()}")
 
     # Save and then load the model weights and biases.
-    with open("pytorch_nn/model_state.pt", "wb") as f: 
+    with open("model_state.pt", "wb") as f: 
         save(clf.state_dict(), f)
 
-    with open("pytorch_nn/model_state.pt", "rb") as f:
+    with open("model_state.pt", "rb") as f:
         clf.load_state_dict(load(f))
 
     # Transform one of the images to a tensor.
-    img = Image.open("pytorch_nn/img_3.jpg")
+    img = Image.open("img_3.jpg")
     img_tensor = ToTensor()(img).unsqueeze(0).to("cuda")
 
     # Print out the class with the highest calculated probability.
